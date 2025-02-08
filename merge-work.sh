@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env -S mise x gh -- bash
 
 # Check if gh CLI is installed
 if ! command -v gh &>/dev/null; then
